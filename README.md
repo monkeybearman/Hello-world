@@ -1,1 +1,3 @@
 # Hello-world
+I like sandwiches
+And I hae no idea what I'm getting into with this coding thing...
